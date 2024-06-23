@@ -73,19 +73,3 @@
 **PIE CHART ANALYSIS FOR STAGE**
 ![image](https://github.com/h-a-r-i-n-i-1812/Prediction-of-Liver-Cirrhosis-using-Classification-Algorithms/assets/126183179/39b619ad-1e27-42d4-9688-f9616930af4d)
 
-**CONFUSION MATRIX FOR LOGISTIC REGRESSION**
-![image](https://github.com/h-a-r-i-n-i-1812/Prediction-of-Liver-Cirrhosis-using-Classification-Algorithms/assets/126183179/1fbea7c6-5b57-4d44-aaef-b4ecbd4e33d0)
-
-**CONFUSION MATRIX FOR SUPPORT VECTOR MACHINE**
-![image](https://github.com/h-a-r-i-n-i-1812/Prediction-of-Liver-Cirrhosis-using-Classification-Algorithms/assets/126183179/3a2b652f-a2ce-4129-aa6e-6374a1b07aee)
-
-**CONFUSION MATRIX FOR KNN**
-![image](https://github.com/h-a-r-i-n-i-1812/Prediction-of-Liver-Cirrhosis-using-Classification-Algorithms/assets/126183179/81ef38b7-8c7c-4a8b-b930-6f4b78bdd51a)
-
-**CONFUSION MATRIX FOR RANDOM FOREST**
-![image](https://github.com/h-a-r-i-n-i-1812/Prediction-of-Liver-Cirrhosis-using-Classification-Algorithms/assets/126183179/f492a7e1-eeed-490b-87e9-3f5f373b79d8)
-
-
-
-
-
